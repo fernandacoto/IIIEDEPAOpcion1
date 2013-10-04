@@ -16,3 +16,5 @@ C:\Users\morales\Desktop\Trabajos Fernanda\VIII Semestre 2013\Asistencia\IIIEDEP
 C:\Users\morales\Desktop\Trabajos Fernanda\VIII Semestre 2013\Asistencia\IIIEDEPA\IIIEDEPA\obj\x86\Debug\IIIEDEPA.application
 C:\Users\morales\Desktop\Trabajos Fernanda\VIII Semestre 2013\Asistencia\IIIEDEPA\IIIEDEPA\obj\x86\Debug\IIIEDEPA.exe
 C:\Users\morales\Desktop\Trabajos Fernanda\VIII Semestre 2013\Asistencia\IIIEDEPA\IIIEDEPA\obj\x86\Debug\IIIEDEPA.pdb
+D:\IIIEDEPAOpcion1\IIIEDEPA\obj\x86\Debug\IIIEDEPA.exe
+D:\IIIEDEPAOpcion1\IIIEDEPA\obj\x86\Debug\IIIEDEPA.pdb
